@@ -1,0 +1,45 @@
+
+.main_container{
+    border: 1px solid #cac8cc;
+    background-color: #679b9b;
+    width :320px;
+    box-shadow: 5px 10px #e4e4e4;
+    border-radius: 25px;
+}
+.info_container{
+    border: 1px solid #cac8cc;
+    background-color: #aacfcf;
+    margin: 10px;
+    padding: 10px;
+    width: 280px;
+    border-radius: 25px;
+}
+img{
+    margin: 10px;
+    border: 1px solid #cac8cc;
+    border-radius: 5px;
+}
+.heading{
+    border: 1px solid #cac8cc;
+    background-color: #8ccbbe;
+    margin: 10px 10px 25px 10px; 
+    padding: 5px;;
+    font-size: 20pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    border-radius: 5px;
+}
+p{
+    font-family: Times, Times New Roman, Georgia, serif;
+} 
+.animal_fact{
+    font-style: italic;
+}
+ul {
+    list-style: none;
+    padding-left: 0pt;
+}
+li span{
+    font-weight: bold;
+    font-size: 105%;
+}
